@@ -1,0 +1,12 @@
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Proyectos de Youtube\SistemadeVentas\CapaModelo\obj\Debug\CapaModelo.pdb
